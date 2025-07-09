@@ -2,7 +2,7 @@
 A plugin that simplifies making smallcaps font in minecraft
 
 features:
-  - /smallcaps TEXTHERE
+  - /smallcaps TEXTHERE<br>
     This generates the font from a simple command and allows you to copy it via MinimMessage
     permission: smallcaps.smallcapscommand
   - %smallcaps_text_TEXTHERE%<br>
