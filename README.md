@@ -9,6 +9,9 @@ Placeholders:
   - %smallcaps_text_TEXTHERE%
     Simplifies making smallcaps font in plugins that support PlaceHolderAPI
 
+## Website version
+Dont want to install the plugin? no worries i've released a web version <br>
+https://deansspace.vercel.app/tools/smallcaps
 ## Soft-dependecies
   [Placeholder API](https://www.spigotmc.org/resources/placeholderapi.6245/)
 
