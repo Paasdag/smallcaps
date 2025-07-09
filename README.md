@@ -11,3 +11,6 @@ Placeholders:
 
 ## Soft-dependecies
   [Placeholder API](https://www.spigotmc.org/resources/placeholderapi.6245/)
+
+## Limits
+ Only supports Letters from A to Z.
