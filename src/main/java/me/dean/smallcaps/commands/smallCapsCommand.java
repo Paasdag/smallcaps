@@ -20,7 +20,7 @@ public class smallCapsCommand {
 
     public void register(){
         new CommandAPICommand("smallcaps")
-                .withPermission("blockycore.smallcapsgenerator")
+                .withPermission("smallcaps.smallcapscommand")
                 .withArguments(new GreedyStringArgument("text"))
                 .executes((sender, args)->{
                     String original = (String) args.get("text");
