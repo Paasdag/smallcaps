@@ -1,0 +1,6 @@
+name: smallcaps
+version: '1.0'
+main: me.dean.smallcaps.Smallcaps
+api-version: '1.21'
+authors: [ Dean ]
+softdepend: ["PlaceholderAPI"]
