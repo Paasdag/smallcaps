@@ -1,12 +1,11 @@
 # Smallcaps
 A plugin that simplifies making smallcaps font in minecraft
 
-Commands:
+features:
   - /smallcaps TEXTHERE
     This generates the font from a simple command and allows you to copy it via MinimMessage
     permission: smallcaps.smallcapscommand
-Placeholders:
-  - %smallcaps_text_TEXTHERE%
+  - %smallcaps_text_TEXTHERE%<br>
     Simplifies making smallcaps font in plugins that support PlaceHolderAPI
 
 ## Website version
